@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A952AB951CB34A3E00F140B3 /* Juego De Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego De Memoria.playground"; sourceTree = "<group>"; };
 		A96A1DA61CAA201200518517 /* helloswift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = helloswift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A96A1DA91CAA201200518517 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A96A1DAB1CAA201200518517 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +78,7 @@
 		A96A1D9D1CAA201200518517 = {
 			isa = PBXGroup;
 			children = (
+				A952AB951CB34A3E00F140B3 /* Juego De Memoria.playground */,
 				A96A1DA81CAA201200518517 /* helloswift */,
 				A96A1DBD1CAA201300518517 /* helloswiftTests */,
 				A96A1DC81CAA201300518517 /* helloswiftUITests */,
@@ -482,6 +484,7 @@
 				A96A1DD01CAA201300518517 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A96A1DD11CAA201300518517 /* Build configuration list for PBXNativeTarget "helloswiftTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +493,7 @@
 				A96A1DD31CAA201300518517 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A96A1DD41CAA201300518517 /* Build configuration list for PBXNativeTarget "helloswiftUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +502,7 @@
 				A96A1DD61CAA201300518517 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
